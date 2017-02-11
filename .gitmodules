@@ -1,0 +1,3 @@
+[submodule "PCRE2Plus"]
+	path = PCRE2Plus
+	url = https://github.com/xuboying/PCRE2Plus.git
